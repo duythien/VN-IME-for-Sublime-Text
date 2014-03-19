@@ -16,4 +16,4 @@ Nhấn phím F2 để bật gõ tiếng việt, nhấn lại phím F2 để tắ
 Khi thanh status hiện chữ VN IME : ON là đang bật, VN IME : OFF là đã tắt
 
 ---------------------------------------------------------------------
-aaAnh em test cho phiên bản sublime-tex 2 coi thử có bị lỗi gì không. ;)
+Anh em test cho phiên bản sublime-tex 2 coi thử có bị lỗi gì không. ;)
