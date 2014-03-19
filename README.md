@@ -17,3 +17,5 @@ Khi thanh status hiện chữ VN IME : ON là đang bật, VN IME : OFF là đã
 
 ---------------------------------------------------------------------
 aaAnh em test cho phiên bản sublime-tex 2 coi thử có bị lỗi gì không. ;)
+
+dang o branch 1
